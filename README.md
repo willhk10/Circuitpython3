@@ -20,3 +20,6 @@ while True:
 ```
 ##### Problemos
 One problem that I was continuously having was that the library "Neopixel" was not being recognized by my MetroM0. In order to fix this problem, I had to go to a [website](https://circuitpython.org/libraries) and download the libraries there. I downloaded v5 so that I got all the new ones.
+
+After this, it worked like a charm!
+<img src="media/led_fade.png" width="300px" /> 
