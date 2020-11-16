@@ -7,7 +7,8 @@
 * [Servo with Capacitive Touch](#SecondAssignment)
 ---
 
-# FirstAssignment - Get RGB LED working
+# FirstAssignment 
+## - Get RGB LED working
 
 ## Description
 The goal of this assignment was to get the board up and running, and to get the onboard RGB to hold a steady, red color. We had to use libraries, which we imported through the [Python help site](https://circuitpython.org/board/metro_m0_express/).
@@ -35,4 +36,5 @@ After this, it worked like a charm!
 
 -----
 
-# SecondAssignment - Servo Capacitive Touch
+# SecondAssignment 
+## - Servo Capacitive Touch
