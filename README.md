@@ -44,11 +44,11 @@ This assignment was to use a continuous servo and the MetroExpress Capacitive To
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/ServoCapacitiveTouch.py)
 
-### Important snippets of code and what they mean
+## Important snippets of code and what they mean
 ```python
 import touchio
 ```
-##### Importance -
+#### Importance -
 This allows for the code that you write to incorporate capacitive touch.
 ---
 ```python
@@ -66,7 +66,7 @@ def constrain(val, min_val, max_val):
         return max_val
     return val
 ```
-#### Importance -
+### Importance -
 Prevents error messages if the value being sent to the servo exceeds the mins or maxes that the servo can understand
 ---
 ```python
@@ -80,6 +80,6 @@ while True:
         myServo.angle = constrain((myServo.angle -4), min_val , max_val) #Moves it to 0
         time.sleep(0.1)
 ```
-#### Importance - 
+### Importance - 
 This makes the servo move back and forth, and prints the value that the servo is processing to the serial monitor for debugging.
 ---
