@@ -44,7 +44,7 @@ This assignment was to use a continuous servo and the MetroExpress Capacitive To
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/ServoCapacitiveTouch.py)
 
-#### Important snippets of code and what they mean
+### Important snippets of code and what they mean
 ```python
 import touchio
 ```
