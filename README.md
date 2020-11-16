@@ -50,6 +50,7 @@ import touchio
 ```
 ##### Importance -
 This allows for the code that you write to incorporate capacitive touch.
+---
 ```python
 min_val = 0
 max_val = 180
@@ -67,7 +68,7 @@ def constrain(val, min_val, max_val):
 ```
 #### Importance -
 Prevents error messages if the value being sent to the servo exceeds the mins or maxes that the servo can understand
-
+---
 ```python
 while True:
     if touch_A0.value:
@@ -81,3 +82,4 @@ while True:
 ```
 #### Importance - 
 This makes the servo move back and forth, and prints the value that the servo is processing to the serial monitor for debugging.
+---
