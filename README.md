@@ -3,7 +3,7 @@
 ### This is my adventure with the first time using CircuitPython, and Coding with the Python Language.
 
 # Table of Contents
-* [SteadyRed LED](FirstAssignment)
+* [SteadyRed LED](#FirstAssignment)
 ---
 
 # FirstAssignment - Get RGB LED working
