@@ -2,7 +2,7 @@
 
 ### This is my adventure with the first time using CircuitPython, and Coding with the Python Language.
 
-## Table of Contents
+## TableofContents
 * [SteadyRed LED](#FirstAssignment)
 * [Servo with Capacitive Touch](#SecondAssignment)
 ---
@@ -93,4 +93,4 @@ This makes the servo move back and forth, and prints the value that the servo is
 
 
 
-[BACK TO TOP](#My_CircuitPython_Assignments)
+[BACK TO TOP](#TableOfContents)
