@@ -4,6 +4,7 @@
 
 # Table of Contents
 * [SteadyRed LED](#FirstAssignment)
+* [Servo with Capacitive Touch](#SecondAssignment)
 ---
 
 # FirstAssignment - Get RGB LED working
@@ -34,4 +35,4 @@ After this, it worked like a charm!
 
 -----
 
-# Second Assignment - Servo Capacitive Touch
+# SecondAssignment - Servo Capacitive Touch
