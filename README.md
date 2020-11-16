@@ -1,9 +1,12 @@
 # My Circuit Python Assignments
 
 ### This is my adventure with the first time using CircuitPython, and Coding with the Python Language.
+
+# Table of Contents
+* [SteadyRed LED](FirstAssignment)
 ---
 
-# First Assignment - Get RGB LED working
+# FirstAssignment - Get RGB LED working
 
 ## Description
 The goal of this assignment was to get the board up and running, and to get the onboard RGB to hold a steady, red color. We had to use libraries, which we imported through the [Python help site](https://circuitpython.org/board/metro_m0_express/).
@@ -27,3 +30,8 @@ First of all, I had to download [Mu](https://codewith.mu/en/downloadOne). This w
 
 After this, it worked like a charm!
 <img src="Pictures/MetroM0.png" width="300px" /> 
+
+
+-----
+
+# Second Assignment - Servo Capacitive Touch
