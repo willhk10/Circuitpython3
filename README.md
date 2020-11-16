@@ -50,7 +50,34 @@ import touchio
 ```
 ##### Importance -
 This allows for the code that you write to incorporate capacitive touch.
+```python
+min_val = 0
+max_val = 180
+val = myServo.angle
+myServo.angle = 5
+
+
+def constrain(val, min_val, max_val):
+
+    if val < min_val:
+        return min_val
+    if val > max_val:
+        return max_val
+    return val
+```
+#### Importance -
+Prevents error messages if the value being sent to the servo exceeds the mins or maxes that the servo can understand
 
 ```python
-
+while True:
+    if touch_A0.value:
+        print("Forward! ; " , myServo.angle) #Allows me to see which wire is being touched in the Serial Monitor, and what the value is..
+        myServo.angle = constrain((myServo.angle +4), min_val , max_val) # Moves it to 180
+        time.sleep(0.1)
+    if touch_A1.value:
+        print("Backward! ; " , myServo.angle)#Allows me to see which wire is being touched in the Serial Monitor, and what the value is.
+        myServo.angle = constrain((myServo.angle -4), min_val , max_val) #Moves it to 0
+        time.sleep(0.1)
 ```
+#### Importance - 
+This makes the servo move back and forth, and prints the value that the servo is processing to the serial monitor for debugging.
