@@ -28,11 +28,10 @@ def constrain(val, min_val, max_val):
 
 while True:
     if touch_A0.value:
-        print("Forward! ; " , myServo.angle) #Allows me to see which wire is being touched in the Serial Monitor.
-        ##myServo.angle = 180 #Does the same thing as myServo.throttle, but will finish the action even if the other wire is touched before finishing the motion.
+        print("Forward! ; " , myServo.angle) #Allows me to see which wire is being touched in the Serial Monitor, and what the value is..
         myServo.angle = constrain((myServo.angle +4), min_val , max_val) # Moves it to 180
         time.sleep(0.1)
     if touch_A1.value:
-        print("Backward! ; " , myServo.angle)#Allows me to see which wire is being touched in the Serial Monitor.
+        print("Backward! ; " , myServo.angle)#Allows me to see which wire is being touched in the Serial Monitor, and what the value is.
         myServo.angle = constrain((myServo.angle -4), min_val , max_val) #Moves it to 0
         time.sleep(0.1)
