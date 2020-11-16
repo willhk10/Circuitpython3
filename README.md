@@ -43,6 +43,8 @@ After this, it worked like a charm!
 This assignment was to use a continuous servo and the MetroExpress Capacitive Touch feature. The goal of the assignment was to use two wires and have the servo move forwards and backwards by touching each wire.
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/ServoCapacitiveTouch.py)
+
+#### Important snippets of code and what they mean
 ```python
 import board
 import servo
