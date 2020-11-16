@@ -83,12 +83,11 @@ while True:
 ### Importance - 
 This makes the servo move back and forth, and prints the value that the servo is processing to the serial monitor for debugging.
 ---
+## Pictures 
 <img src="Pictures/POVServo1.jpg" width="400px" height="300px" /> 
 <img src="Pictures/POVServo2.jpg" width="400px" height="300px /> 
 
-
-
-
+## Problemos 
 
 
 
