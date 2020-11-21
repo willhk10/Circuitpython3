@@ -95,7 +95,8 @@ This makes the servo move back and forth, and prints the value that the servo is
 
 ---
 ## Problemos
-big probloim
+There weren't all that many problems, but I did have to figure out how to use the 
+
 
 [BACK TO TOP](#TableOfContents)
 
