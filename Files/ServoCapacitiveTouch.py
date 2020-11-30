@@ -18,7 +18,7 @@ val = myServo.angle
 myServo.angle = 5
 
 
-def constrain(val, min_val, max_val):
+def constrain(val, min_val, max_val):   # Define min_val, max_val, and val before constrain function. Then, put constrain after setting myServo.angle
 
     if val < min_val:
         return min_val
