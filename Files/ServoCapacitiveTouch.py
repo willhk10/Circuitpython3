@@ -14,8 +14,8 @@ touch_A1 = touchio.TouchIn(board.A1)  # Defines which pin the second wire is in.
 
 min_val = 0
 max_val = 180
-val = myServo.angle
 myServo.angle = 5
+val = myServo.angle
 
 
 def constrain(val, min_val, max_val):   # Define min_val, max_val, and val before constrain function. Then, put constrain after setting myServo.angle
