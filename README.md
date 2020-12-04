@@ -5,6 +5,7 @@
 ## TableofContents
 * [SteadyRed LED](#FirstAssignment)
 * [Servo with Capacitive Touch](#SecondAssignment)
+* [LCD with Cap. Touch](#ThirdAssignment)
 ---
 
 # FirstAssignment 
@@ -99,6 +100,19 @@ There weren't all that many problems, but I did have to figure out how to use th
 
 
 [BACK TO TOP](#TableOfContents)
+
+
+
+
+# ThirdAssignment
+## LCD with CircuitPython
+
+## Description
+The goal of this assignment was to use capacitive touch to get a number on an LCD screen count up by one every time one wire is touched, and count down by one when the other one is touched
+
+## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/LCDDisplayCounter.py)
+
+
 
 
 
