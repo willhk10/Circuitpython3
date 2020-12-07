@@ -6,6 +6,7 @@
 * [SteadyRed LED](#FirstAssignment)
 * [Servo with Capacitive Touch](#SecondAssignment)
 * [LCD with Cap. Touch](#ThirdAssignment)
+* [Photo Interrupter](#FourthAssignment)
 ---
 
 # FirstAssignment 
@@ -112,10 +113,20 @@ The goal of this assignment was to use capacitive touch to get a number on an LC
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/LCDDisplayCounter.py)
 
+## Problems
+
+## Takeaway
 
 
+# FourthAssignment
+## Photointerrupter Printing
 
+## Description
 
+## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/PhotoInterrupter.py)
 
+## Problems
+
+## Takeaway
 
 
