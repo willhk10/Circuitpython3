@@ -130,4 +130,4 @@ The goal of this assignment was to use capacitive touch to get a number on an LC
 ## Takeaway
 
 
-[BACK TO TOP](# My_CirciutPython_Assignments)
+[BACK TO TOP](#My CircuitPython Assignments)
