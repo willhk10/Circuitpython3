@@ -100,7 +100,7 @@ This makes the servo move back and forth, and prints the value that the servo is
 There weren't all that many problems, but I did have to figure out how to use the [Constrain feature](https://stackoverflow.com/questions/34837677/a-pythonic-way-to-write-a-constrain-function/34837691) that I copied from the website hyperlinked. The constrain feature didn't work initially, because I didn't actually incorporate it into the code. After putting the constrain feature right, the code I included above worked perfectly. You can adjust the speed of the servo arm by increasing the additions and subtractions to the x value 
 
 
-[BACK TO TOP](#TableOfContents)
+
 
 
 
@@ -130,3 +130,4 @@ The goal of this assignment was to use capacitive touch to get a number on an LC
 ## Takeaway
 
 
+[BACK TO TOP](#My_CirciutPython_Assignments)
