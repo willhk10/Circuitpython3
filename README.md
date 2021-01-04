@@ -137,8 +137,10 @@ while True:
 This adds one to the counter on screen when Wire A0 is touched, and subtracts one number when wire A1 is touched
 
 ## Problems
-
+ There were no actual problems that I had when working through this assignment. I did not have to constrain anything, and the only thing that i had to learn how to do was print the numbers to the LCD screen, which i learned how to do [here](https://learn.adafruit.com/character-lcds/python-circuitpython)
+I also found how to wire the device at this link as well.
 ## Takeaway
+In the end, I learned how to control the LCD Screen.
 
 ---
 
