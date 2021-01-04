@@ -112,11 +112,35 @@ There weren't all that many problems, but I did have to figure out how to use th
 The goal of this assignment was to use capacitive touch to get a number on an LCD screen count up by one every time one wire is touched, and count down by one when the other one is touched
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/LCDDisplayCounter.py)
+### Important snippets from the code and what they mean
+```python
+from lcd.lcd import LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
+```
+Pulls the LCD library from a folder inside of the MetroM0 Express. This allows the Metrom0 to cimmunicate with the LCD screen
+
+```python
+while True:
+    if touch_A0.value:
+        lcd.clear()
+        x = x + 1
+        lcd.print(str(x))
+        while touch_A0.value:
+            print("HelloA0")
+    if touch_A1.value:
+        lcd.clear()
+        x = x - 1
+        lcd.print(str(x))
+        while touch_A1.value:
+            print("HelloA1")
+```
+This adds one to the counter on screen when Wire A0 is touched, and subtracts one number when wire A1 is touched
 
 ## Problems
 
 ## Takeaway
 
+---
 
 # FourthAssignment
 ## Photointerrupter Printing
