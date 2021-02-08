@@ -7,6 +7,7 @@
 * [Servo with Capacitive Touch](#SecondAssignment)
 * [LCD with Cap. Touch](#ThirdAssignment)
 * [Photo Interrupter](#FourthAssignment)
+* [Distance Sensor](#FifthAssignment)
 ---
 
 # FirstAssignment 
