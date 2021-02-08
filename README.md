@@ -152,7 +152,7 @@ In the end, I learned how to control the LCD Screen.
 ## Description
 
 
-## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/PhotoInterrupter.py)
+## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/Photointerrupter.py)
 
 
 ## Problems
