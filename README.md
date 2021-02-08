@@ -155,5 +155,18 @@ In the end, I learned how to control the LCD Screen.
 
 ## Takeaway
 
+---
+
+# FifthAssignment
+## Distance Sensor
+
+## Description
+
+## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/DistanceSensor.py)
+
+## Problems
+
+## Takeaway
+
 
 [BACK TO TOP](#My_CircuitPython_Assignments)
