@@ -148,24 +148,32 @@ In the end, I learned how to control the LCD Screen.
 # FourthAssignment
 ## Photointerrupter Printing
 
+
 ## Description
+
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/PhotoInterrupter.py)
 
+
 ## Problems
+
 
 ## Takeaway
 
 ---
 
 # FifthAssignment
+
 ## Distance Sensor
 
 ## Description
 
+
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/DistanceSensor.py)
 
+
 ## Problems
+
 
 ## Takeaway
 
