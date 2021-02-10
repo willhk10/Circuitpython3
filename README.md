@@ -167,17 +167,17 @@ In the end, I learned how to control the LCD Screen.
 ## Distance Sensor
 
 ## Description
-The main goal of this project is to learn how to work with the HCSRO4 Distance Sensing module. The HCSRO4 Module works by sending ultrasonic waves in a cone around the module,  which reflect back to the module off the object. The time it takes for the waves to come back to the object will determine the distance from module to object.
+The main goal of this project is to learn how to work with the HCSRO4 Distance Sensing module. The HCSRO4 Module works by sending ultrasonic waves in a cone around the module,  which reflect back to the module off the object. The time it takes for the waves to come back to the object will determine the distance from module to object. Although this assignment seems to just be about learning how to use the HC-SRO4, you must also learn the information you learned from working with the Neopixel Library to change an RGB LED based on the distance readings from the module.
+---
 Here is an example:
 <img src="Pictures/HC-SRO4.png" width="300px" />
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/DistanceSensor.py)
 
-
 ## Problems
-I did not run into any problems because I have used this code before while working with the CircuitPython MetroM0 express Board in the summer.
+I did not run into any problems because I have used this code before while working with the CircuitPython MetroM0 express Board in the summer, and I have been working with RBG LED's for a long time.
 
 ## Takeaway
-
+The main takeaway of this project was that I learned how to program the HC-SRO4 with Circuitpython, and I learned how to incorporate outputs from the distance sensing module into another part of my code. This opened up a new path of coding for me, where I can use inputs and ouputs from various modules to send signals and activate other modules.
 
 [BACK TO TOP](#My_CircuitPython_Assignments)
