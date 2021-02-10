@@ -168,7 +168,7 @@ In the end, I learned how to control the LCD Screen.
 
 ## Description
 The main goal of this project is to learn how to work with the HCSRO4 Distance Sensing module. The HCSRO4 Module works by sending ultrasonic waves in a cone around the module,  which reflect back to the module off the object. The time it takes for the waves to come back to the object will determine the distance from module to object. Although this assignment seems to just be about learning how to use the HC-SRO4, you must also learn the information you learned from working with the Neopixel Library to change an RGB LED based on the distance readings from the module.
----
+
 Here is an example:
 <img src="Pictures/HC-SRO4.png" width="300px" />
 
