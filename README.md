@@ -167,13 +167,15 @@ In the end, I learned how to control the LCD Screen.
 ## Distance Sensor
 
 ## Description
-
+The main goal of this project is to learn how to work with the HCSRO4 Distance Sensing module. The HCSRO4 Module works by sending ultrasonic waves in a cone around the module,  which reflect back to the module off the object. The time it takes for the waves to come back to the object will determine the distance from module to object.
+Here is an example:
+(https://github.com/willhk10/Circuitpython3/blob/main/Files/HC-SRO4.png)
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/DistanceSensor.py)
 
 
 ## Problems
-
+I did not run into any problems because I have used this code before while working with the CircuitPython MetroM0 express Board in the summer.
 
 ## Takeaway
 
