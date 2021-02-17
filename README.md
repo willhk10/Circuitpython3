@@ -150,16 +150,16 @@ In the end, I learned how to control the LCD Screen.
 
 
 ## Description
-
+The point of this project is to learn how to use a Photointerrupter and incorporate it into code and serial monitor. The Photointerrupter must also only output things every 4 seconds, and we cannot use the Sleep function.
 
 ## [Code](https://github.com/willhk10/Circuitpython3/blob/main/Files/Photointerrupter.py)
 
 
 ## Problems
-
+I did not run into any problems with this project at all, which was very surprising to me. I did not have any trouble with the wiring, coding, or the removal of the sleep function.
 
 ## Takeaway
-
+I learned a lot about how to code photointerrupters, wire them, and challenge my brain by not using certain functions that make things especially easy. For example, this project would have been much easier with the sleep function, but adding in the Time.Monotonic() made it more challenging and fun.
 ---
 
 # FifthAssignment
